@@ -1,4 +1,4 @@
-## 我的第一个GitHub项目
+## 第一个GitHub项目
 
 这是项目 [sandbox](https://github.com/jipeng1/sandbox) ，欢迎访问。
 
