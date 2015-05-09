@@ -20,3 +20,7 @@
 
     $ git clone git://github.com/jipeng1/sandbox.git
 
+## 测试连接
+
+操作事例：
+    $ ssh -T git@github.com
